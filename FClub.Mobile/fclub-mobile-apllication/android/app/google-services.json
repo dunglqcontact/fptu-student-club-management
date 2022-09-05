@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "200059558387",
+    "firebase_url": "https://auth-club-management-dev-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "auth-club-management-dev",
+    "storage_bucket": "auth-club-management-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200059558387:android:7c28690e9e27c8de531a86",
+        "android_client_info": {
+          "package_name": "com.uniclub.clubmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200059558387-8s0uj8ar7jtgo9in868g656o45br3ids.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uniclub.clubmanagement",
+            "certificate_hash": "fa19e8055773d1797d23db50e5507781bcf6a3af"
+          }
+        },
+        {
+          "client_id": "200059558387-badqbamf37okj4c3b7ofqhjiil1p4k7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1At_7z5hlRmCpRAsFDZE5q_adl51PDAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200059558387-badqbamf37okj4c3b7ofqhjiil1p4k7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

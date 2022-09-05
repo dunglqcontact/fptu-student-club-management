@@ -1,0 +1,11 @@
+diff a/FClub.API/Controllers/EventsController.cs b/FClub.API/Controllers/EventsController.cs	(rejected hunks)
+@@ -0,6 +0,9 @@
+ using System;
+ namespace FClub.API.Controllers
+ {
++<<<<<<< HEAD:FClub.API/Controllers/EventController.cs
++    [Route("api/event")]
++=======
+     [Route("api/events")]
+ >>>>>>> ae4ce738508c5ce29c42aa4289f4c36cdfc6806c:FClub.API/Controllers/EventsController.cs
+     [ApiController]
